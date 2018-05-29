@@ -2,5 +2,5 @@
 
 
 * [Presentation for Windows / MacOS](https://github.com/mike-petrov/hackatons/tree/master/ActumDigitalHack%20-%2018%20may%202018/Presentation)
-* [Application for Android / iOS](https://github.com/mike-petrov/hackatons/tree/master/ActumDigitalHack%20-%2018%20may%202018/Application)
+* [Application on Unity for Android / iOS](https://github.com/mike-petrov/hackatons/tree/master/ActumDigitalHack%20-%2018%20may%202018/Application)
 * [Site](https://github.com/mike-petrov/hackatons/tree/master/ActumDigitalHack%20-%2018%20may%202018/site)
