@@ -1,6 +1,6 @@
 # hackatons
 
-### Team LolKek
+### Team LolKeks
 
 ### Events:
 
