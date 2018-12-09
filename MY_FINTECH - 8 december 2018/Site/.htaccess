@@ -1,0 +1,5 @@
+RewriteEngine On
+Options -Indexes
+ErrorDocument 404 /404.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
