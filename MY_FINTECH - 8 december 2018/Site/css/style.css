@@ -1,0 +1,140 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Exo 2', sans-serif;
+    background-color: #f0f4f7;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover,
+a:active,
+a {
+    color: #fff !important;
+}
+
+.menu-list a:hover {
+    background-color: #2d70df;
+}
+
+.container.is-fluid {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.navbar.is-primary {
+    background-color: #2d70df;
+}
+
+.navbar.is-primary .navbar-brand > a.navbar-item:hover,
+.navbar.is-primary .navbar-brand > a.navbar-item.is-active,
+.navbar.is-primary .navbar-brand .navbar-link:hover,
+.navbar.is-primary .navbar-brand .navbar-link.is-active {
+    background-color: #0e9af1;
+}
+
+.navbar.is-primary .navbar-start > a.navbar-item:hover,
+.navbar.is-primary .navbar-start > a.navbar-item.is-active,
+.navbar.is-primary .navbar-start .navbar-link:hover,
+.navbar.is-primary .navbar-start .navbar-link.is-active,
+.navbar.is-primary .navbar-end > a.navbar-item:hover,
+.navbar.is-primary .navbar-end > a.navbar-item.is-active,
+.navbar.is-primary .navbar-end .navbar-link:hover,
+.navbar.is-primary .navbar-end .navbar-link.is-active {
+    background-color: #0e9af1;
+}
+
+li {
+    list-style-type: none;
+}
+
+.footer {
+    padding: 10px;
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    right: 67%;
+    left: 0;
+}
+
+.user-photo {
+    width: 30px;
+    height: 30px;
+}
+
+.navbar-item {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.navbar-menu {
+    background-color: #2d70df;
+}
+
+.sidebar {
+    height: 100vh;
+}
+
+.map-sticky {
+    height: 100%;
+}
+
+@media handheld {
+    .map-sticky {
+        height: calc(100vh - 50px);
+    }
+}
+
+
+#geocoder-container > div {
+    min-width: 50%;
+    margin-left: 25%;
+}
+
+.columns.is-gapless:not(:last-child) {
+    margin-bottom: 0;
+}
+
+.title {
+    color: #fff;
+}
+
+.menu-list .fas, fa-chevron-left {
+    margin-right: 10px;
+}
+
+.label {
+    color: #fff;
+    float: left;
+}
+
+.input.is-static {
+    font-weight: bold;
+    color: #fff;
+}
+
+.tile {
+    justify-content: center;
+    flex-direction: column;
+}
+
+.checkbox, .radio {
+    color: #fff;
+}
+
+.checkbox input, .radio input {
+    margin-right: 10px;
+}
+
+.subtitle {
+    color: #fff;
+}
+
