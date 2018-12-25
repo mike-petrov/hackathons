@@ -7,4 +7,5 @@
 * [GameNode - 21 july 2018](https://github.com/mike-petrov/hackatons/tree/master/GameNode%20-%2021%20july%202018) / First place / 300000₽
 * [GameNode - 16 november 2018](https://github.com/mike-petrov/hackatons/tree/master/GameNode%20-%2016%20november%202018) / Fourth place
 * [MY_FINTECH - 8 december 2018](https://github.com/mike-petrov/hackatons/tree/master/MY_FINTECH%20-%208%20december%202018) / Second place / 1000$
+* [BlackDayHack - 21  december 2018](https://github.com/mike-petrov/hackatons/tree/master/BlackDayHack%20-%2021%20december%202018) / Fourth place
 * Coming soon : )
