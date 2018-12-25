@@ -1,8 +1,8 @@
 # BlackDayHack - 21  december 2018
 HealthCare - project about care medical date for better health care 
 
-* [Presentation for Windows / MacOS](https://github.com/mike-petrov/hackatons/tree/master/BlackDayHack%20-%2021%20december%202018/Presentation)
-* [Site](https://github.com/mike-petrov/hackatons/tree/master/BlackDayHack%20-%2021%20december%202018/Site)
+* [Presentation for Windows / MacOS](https://github.com/mike-petrov/hackatons/tree/master/BlackDayHack%20-%2021%20%20december%202018/Presentation)
+* [Site](https://github.com/mike-petrov/hackatons/tree/master/BlackDayHack%20-%2021%20%20december%202018/Site)
 
 # Used technology
 
