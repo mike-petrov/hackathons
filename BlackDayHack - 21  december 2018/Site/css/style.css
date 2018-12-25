@@ -1,0 +1,92 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+.containers {
+    height: 100vh;
+}
+
+.column {
+    position: absolute;
+    border-radius: 10px;
+    padding: 20px;
+    top: 20%;
+}
+
+.login .column {
+    left: 35%;
+}
+
+.title {
+    color: #fff;
+}
+
+.field-label {
+    text-align: left;
+}
+
+.field.is-horizontal {
+    align-items: center;
+    margin: 10px 0;
+}
+
+
+.field-label.is-normal {
+    padding-top: 0;
+}
+
+.is-horizontal .fas {
+    font-weight: 900;
+    color: #fff;
+    padding: 0 10px 0 5px;
+}
+
+.label {
+    color: #fff;
+}
+
+.far {
+    margin-left: 10px;
+}
+
+.is-horizontal .fas {
+    font-weight: 900;
+    color: #fff;
+    padding: 0 10px 0 5px;
+}
+
+.fas-icon .fas {
+    padding: 0 0 16px 10px;
+}
+
+.is-horizontal .field, .is-normal .label {
+    font-weight: bold;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.tile {
+    padding: 15px;
+    margin: 15px  0;
+}
+
+.title-center {
+    text-align: center;
+}
+
+.width-50 {
+    width: 50px;
+}
