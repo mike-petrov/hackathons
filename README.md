@@ -11,5 +11,6 @@
 * [BlackDayHack - 21  december 2018](https://github.com/mike-petrov/hackatons/tree/master/BlackDayHack%20-%2021%20%20december%202018) / Fourth place
 
 #### 2019
+* [VK Apps - 1 february 2019](https://github.com/mike-petrov/hackatons/tree/master/VK%20Apps%201%20february%202019) / Second place / 100000₽
 * [HRHack - 28 february 2019](https://github.com/mike-petrov/hackatons/tree/master/HRHack%20-%2028%20february%202019)
 * Coming soon : )
