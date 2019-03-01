@@ -12,5 +12,4 @@
 
 #### 2019
 * [HRHack - 28 february 2019](https://github.com/mike-petrov/hackatons/tree/master/HRHack%20-%2028%20february%202019)
-https://github.com/mike-petrov/Hackathons/tree/master/
 * Coming soon : )
