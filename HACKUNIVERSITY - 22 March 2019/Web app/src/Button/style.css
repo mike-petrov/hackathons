@@ -1,0 +1,39 @@
+.btn {
+    border: 2px solid #5352ed;
+    background: #5352ed;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 15px;
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    z-index: 60;
+    color: #fff;
+}
+
+.btn-center {
+    bottom: 30px;
+    right: 120px;
+}
+
+.btn:hover {
+	background-color: #5352ed;
+	color: #fff;
+}
+
+.btn-wardrobe {
+    right: 20px;
+}
+
+.close {
+    bottom: 20px;
+    right: 140px;
+    position: unset;
+    margin: 20px;
+}
+
+.panel {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}

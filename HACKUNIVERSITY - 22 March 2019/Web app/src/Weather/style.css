@@ -1,0 +1,15 @@
+.weather_block {
+    font-weight: 400;
+	color: #1e272e;
+    position: absolute;
+    top: 60px;
+    left: 85px;
+    width: 200px;
+    text-align: center;
+	z-index: 80;
+}
+
+img#api {
+    height: 1.5rem;
+    width: auto;
+}
