@@ -1,0 +1,273 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #487eb0;
+}
+
+.map {
+    display: flex;
+}
+
+.panel {
+    position: absolute;
+    display: flex;
+    background: #fff;
+    border-radius: 5px;
+    z-index: 5;
+}
+
+.panel-left {
+    top: 20px;
+    left: 20px;
+}
+
+.panel-right {
+    top: 20px;
+    right: 20px;
+    color: #e20074;
+}
+
+.panel div {
+    padding: 10px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.panel-left div:hover {
+    background: #dadada;
+}
+
+.panel-left .fas {
+    color: #e20074;
+    cursor: pointer;
+}
+
+#mapbox {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+}
+
+#package {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    background: #fff;
+    color: #e20074;
+    margin: 20px;
+    border-radius: 6px;
+}
+
+.title {
+    color: #2c3e50;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    font-size: 20px;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    background: #dff9fb;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.subtitle {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.text {
+    text-align: center;
+}
+
+.date {
+    color: #34495e;
+}
+
+.open {
+    color: #e74c3c;
+}
+
+.close {
+    color: #2ecc71;
+}
+
+.mapboxgl-popup-content {
+    background: #e74c3c;
+    border-radius: 10px;
+    padding: 20px 20px 25px;
+    color: #fff;
+}
+
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip {
+    border-top-color: #e74c3c;
+}
+
+.mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
+    border-right-color: #e74c3c;
+}
+
+.mapboxgl-popup-anchor-rigth .mapboxgl-popup-tip {
+    border-left-color: #e74c3c;
+}
+
+.mapboxgl-popup-anchor-top .mapboxgl-popup-tip {
+    border-bottom-color: #e74c3c;
+}
+
+.mapboxgl-popup-close-button {
+    padding: 3px 8px 2px;
+    color: #fff;
+}
+
+.btn {
+    color: #fff;
+    background-color: #3498db;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 12px;
+    outline: 0px;
+    border: 0px;
+    font-weight: 500;
+    border-radius: 5px;
+    height: 40px;
+}
+
+.popup {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popup_content {
+    position: absolute;
+    background: #fff;
+    border-radius: 4px;
+    padding: 20px;
+    min-width: 280px;
+}
+
+#package img {
+    width: 70px;
+    height: auto;
+}
+
+#img {
+    height: 300px;
+    width: auto;
+}
+
+.popup_close {
+    padding: 15px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.boxs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.boxs div {
+    padding: 10px;
+}
+
+#scooter-number {
+    opacity: 0.5;
+    font-size: 12px;
+}
+
+#scooter-energy {
+    opacity: 0.7;
+    font-size: 14px;
+}
+
+#scooter-name {
+    opacity: 0.7;
+    font-size: 20px;
+}
+
+.scooter-info {
+    margin: 0 30px;
+}
+
+#scooter-play {
+    color: #fff;
+    background-color: #e20074;
+    padding: 10px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    outline: 0px;
+    border: 0px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.scooter-block {
+    text-align: center;
+}
+
+#scooter-time {
+    font-size: 30px;
+}
+
+#scooter-input {
+    margin: 10px 0;
+    border: 0;
+    height: 40px;
+    border-radius: 4px;
+    background: #cccccc50;
+    outline: 0;
+    padding: 0 20px;
+    font-size: 16px;
+}
+
+.scooter-profile {
+    margin: 10px 0;
+}
+
+.fas-lg-right {
+    font-size: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.fas-lg-left {
+    font-size: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.disabled {
+    color: #ccc;
+}
