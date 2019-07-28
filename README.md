@@ -16,5 +16,5 @@
 * [HACKUNIVERSITY - 22 March 2019](https://github.com/mike-petrov/hackatons/tree/master/HACKUNIVERSITY%20-%2022%20March%202019) / First place / Trip to HERE Sochi Camp
 * [DSXTHack - 06 April 2019](https://github.com/mike-petrov/hackatons/tree/master/DSXTHack%20-%2006%20April%202019)
 * [WhiteNightHack - 18 June 2019](https://github.com/mike-petrov/hackatons/tree/master/WhiteNightHack%20-%2018%20June%202019) / First place / 3000 €
-* [Junction Online: Impact Hackathon - 01/21 July 2019](https://junction.hackerearth.com/ru/#themes) / EdTech Challenge Winner / 1000 $ for udemy
+* [Junction Online - 01-21 July 2019](https://junction.hackerearth.com/ru/#themes) / EdTech Challenge Winner / 1000 $ for udemy
 * Coming soon : )
