@@ -4,11 +4,11 @@
 
 #### 2018
 * [```BlockchainCup - 21 April```](BlockchainCup%20-%2021%20April%202018) / Second place / 100000 ₽
-* [```ActumDigitalHack - 18 May```](ActumDigitalHack%20-%2018%20May)
-* [```GameNode - 21 July```](GameNode%20-%2021%20July) / First place / 300000 ₽
-* [```GameNode - 16 November```](GameNode%20-%2016%20November) / Fourth place
-* [```MyFintech - 8 December```](MyFintech%20-%208%20December) / Second place / 1000 $
-* [```BlackDayHack - 21 December```](BlackDayHack%20-%2021%20December) / Fourth place
+* [```ActumDigitalHack - 18 May```](ActumDigitalHack%20-%2018%20May%202018)
+* [```GameNode - 21 July```](GameNode%20-%2021%20July%202018) / First place / 300000 ₽
+* [```GameNode - 16 November```](GameNode%20-%2016%20November%202018) / Fourth place
+* [```MyFintech - 8 December```](MyFintech%20-%208%20December%202018) / Second place / 1000 $
+* [```BlackDayHack - 21 December```](BlackDayHack%20-%2021%20December%202018) / Fourth place
 
 #### 2019
 * [```VK Apps - 1 February 2019```](https://github.com/mike-petrov/hackatons/tree/master/VK%20Apps%20-%201%20February%202019) / Second place / 100000 ₽
