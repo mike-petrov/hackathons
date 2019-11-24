@@ -1,4 +1,4 @@
-# Playground
+# VK Apps - 1 February 2019
 
 Playground - service for the organization of sports games in the sports ground
 
