@@ -3,7 +3,7 @@
 ### Events:
 
 #### 2018
-* [```BlockchainCup - 21 April 2018```](BlockchainCup - 21 April 2018) / Second place / 100000 ₽
+* [```BlockchainCup - 21 April 2018```](BlockchainCup%20-%2021%20April%202018) / Second place / 100000 ₽
 * [ActumDigitalHack - 18 May 2018](https://github.com/mike-petrov/hackatons/tree/master/ActumDigitalHack%20-%2018%20May%202018)
 * [GameNode - 21 July 2018](https://github.com/mike-petrov/hackatons/tree/master/GameNode%20-%2021%20July%202018) / First place / 300000 ₽
 * [GameNode - 16 November 2018](https://github.com/mike-petrov/hackatons/tree/master/GameNode%20-%2016%20November%202018) / Fourth place
