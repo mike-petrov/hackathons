@@ -21,5 +21,7 @@
 * [```Hack.Moscow - 25 October```](Hack.Moscow%20-%2025%20October%202019) / "Future of education" Challenge Winner / 100000 ₽
 * [```Junction - 15 November```](Junction%20-%2015%20November%202019)
 
-#### 2020 (NEW SEASON)
-* Coming soon : )
+#### 2020
+* [```HackUniversity - 20 March```](HackUniversity%20-%2020%20March%202020)
+* [```LeadersOfDigital - 5 June```](LeadersOfDigital%20-%205%20June%202020)
+* Coming soon =)
