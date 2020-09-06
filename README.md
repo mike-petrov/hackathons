@@ -25,7 +25,8 @@
 * [```HackUniversity - 20 March```](HackUniversity%20-%2020%20March%202020)
 * [```LeadersOfDigital - 5 June```](LeadersOfDigital%20-%205%20June%202020)
 * [```JapanHack - 26 June```](JapanHack%20-%2026%20June%202020)
-* [```Сodegeist - 13 July```](Сodegeist%20-%2013%20July%202020) / top 100 eligible Forge apps / 500 $
+* [```Сodegeist - 13 July```](Сodegeist%20-%2013%20July%202020) / Top 100 eligible Forge apps / 500 $
+* [```VK Fresh Code - 22 July```](VK%20Fresh%20Code%20-%2022%20July%202020) / 2nd place / 300000 ₽
 
 #### 2021
 * Coming soon =)
