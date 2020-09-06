@@ -24,4 +24,5 @@
 #### 2020
 * [```HackUniversity - 20 March```](HackUniversity%20-%2020%20March%202020)
 * [```LeadersOfDigital - 5 June```](LeadersOfDigital%20-%205%20June%202020)
+* [```JapanHack - 26 June```](JapanHack%20-%2026%20June%202020)
 * Coming soon =)
