@@ -1,4 +1,4 @@
-# VK Fresh Code - 22 July 2020
+# VK Fresh Code 2 - Meditation - 22 July
 
 Meditation app project.
 Meditation is known to stress reduction and enhance your self-awareness.

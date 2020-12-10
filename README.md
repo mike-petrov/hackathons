@@ -26,7 +26,11 @@
 * [```LeadersOfDigital - 5 June```](LeadersOfDigital%20-%205%20June%202020)
 * [```JapanHack - 26 June```](JapanHack%20-%2026%20June%202020)
 * [```Сodegeist - 13 July```](Сodegeist%20-%2013%20July%202020) / Top 100 eligible Forge apps / 500 $
-* [```VK Fresh Code - 22 July```](VK%20Fresh%20Code%20-%2022%20July%202020) / 2nd place / 300000 ₽
+* [```VK Fresh Code 2 - Meditation - 22 July```](VK%20Fresh%20Code%202%20-%20Meditation%20-%2022%20July) / Top 10 / 300000 ₽
+* [```VK Fresh Code 4 - Pets' Friends - 26 October```](VK%20Fresh%20Code%204%20-%20Pets'%20Friends%20-%2026%20October) / Top 10 / 300000 ₽
+* [```VK Fresh Code 5 - Find Neighbor - 10 December```](VK%20Fresh%20Code%205%20-%20Find%20Neighbor%20-%2010%20December)
+* [```VK Fresh Code 5 - Random Coffee - 10 December```](VK%20Fresh%20Code%205%20-%Random%20Coffee%20-%2010%20December)
+* [```VK Fresh Code 5 - Memedelnya - 10 December```](VK%20Fresh%20Code%205%20-%20Memedelnya%20-%2010%20December)
 
 #### 2021
 * Coming soon =)
