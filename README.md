@@ -33,4 +33,5 @@
 * [```VK Fresh Code 5 - Memedelnya - 10 December```](VK%20Fresh%20Code%205%20-%20Memedelnya%20-%2010%20December)
 
 #### 2021
+* [```Hedera21 - 19 January 2021```](Hedera21%20-%2019%20January%202021) [`video`](https://youtu.be/GaFMhTmqg_0)
 * Coming soon =)
