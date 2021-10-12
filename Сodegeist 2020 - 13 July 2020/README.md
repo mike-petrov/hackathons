@@ -1,10 +1,10 @@
-# Сodegeist - 13 July 2020
+# Сodegeist 2020 - 13 July 2020
 
 ### Organizer:
-https://codegeist.devpost.com
+https://codegeist2020.devpost.com
 
 ### Presentation:
-https://www.youtube.com/watch?v=U8VzeWDZSUE
+https://youtu.be/U8VzeWDZSUE
 
 ### Info:
 Motivapp - Increase team productivity!
