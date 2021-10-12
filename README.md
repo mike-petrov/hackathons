@@ -25,7 +25,7 @@
 * [```HackUniversity - 20 March```](HackUniversity%20-%2020%20March%202020)
 * [```LeadersOfDigital - 5 June```](LeadersOfDigital%20-%205%20June%202020)
 * [```JapanHack - 26 June```](JapanHack%20-%2026%20June%202020)
-* [```Сodegeist - 13 July```](Сodegeist%20-%2013%20July%202020) [`video`](https://www.youtube.com/watch?v=U8VzeWDZSUE) / Top 100 eligible Forge apps / 500 $
+* [```Сodegeist 2020 - 13 July```](Сodegeist%202020%20-%2013%20July%202020) [`video`](https://youtu.be/U8VzeWDZSUE) / Top 100 eligible Forge apps / 500 $
 * [```VK Fresh Code 2 - Meditation - 22 July```](VK%20Fresh%20Code%202%20-%20Meditation%20-%2022%20July) / Top 10 / 300000 ₽
 * [```VK Fresh Code 4 - Pets' Friends - 26 October```](VK%20Fresh%20Code%204%20-%20Pets'%20Friends%20-%2026%20October) / Top 10 / 300000 ₽
 * [```VK Fresh Code 5 - Find Neighbor - 10 December```](VK%20Fresh%20Code%205%20-%20Find%20Neighbor%20-%2010%20December)
@@ -34,4 +34,6 @@
 
 #### 2021
 * [```Hedera21 - 19 January 2021```](Hedera21%20-%2019%20January%202021) [`video`](https://youtu.be/GaFMhTmqg_0)
+* [```Codegeist 2021 - 11 October 2021```](Codegeist%202021%20-%2011%20October%202021) [`video`](https://youtu.be/Sj-JLrFhwa0)
+* [```Salute Award, Sber - 11 October 2021```](Salute%20Award,%20Sber%20-%2011%20October%202021) / 1st place / 2 500 000 ₽
 * Coming soon =)
