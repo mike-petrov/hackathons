@@ -36,4 +36,6 @@
 * [```Hedera21 - 19 January 2021```](Hedera21%20-%2019%20January%202021) [`video`](https://youtu.be/GaFMhTmqg_0)
 * [```Codegeist 2021 - 11 October 2021```](Codegeist%202021%20-%2011%20October%202021) [`video`](https://youtu.be/Sj-JLrFhwa0)
 * [```Salute Award, Sber - 11 October 2021```](Salute%20Award,%20Sber%20-%2011%20October%202021) / 1st place / 2 500 000 ₽
+
+#### 2022
 * Coming soon =)
