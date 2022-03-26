@@ -38,4 +38,5 @@
 * [```Salute Award, Sber - 11 October 2021```](Salute%20Award,%20Sber%20-%2011%20October%202021) / 1st place / 2 500 000 ₽
 
 #### 2022
+* [```Definition - 20 February 2022```](Definition%20-%2020%20February%202022) / 1st place / 3 000 $
 * Coming soon =)
