@@ -39,4 +39,4 @@
 
 #### 2022
 * [```Definition - 20 February 2022```](Definition%20-%2020%20February%202022) / 1st place / 3 000 $
-* Coming soon, keep waiting: [```mikepetrov.ru```](https://mikepetrov.ru/) 🔥
+* Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
