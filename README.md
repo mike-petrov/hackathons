@@ -39,4 +39,5 @@
 
 #### 2022
 * [```Definition - 20 February 2022```](Definition%20-%2020%20February%202022) / 1st place / 3 000 $
+* [```Hedera22 - 31 May 2022```](Hedera22%20-%2031%20May%202022) / 1st place in DeFi NFTs Challenge / 3 000 $
 * Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
