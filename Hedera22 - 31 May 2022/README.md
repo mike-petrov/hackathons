@@ -6,3 +6,5 @@ Web3 NFT Football Management game-changing decentralized application with scalab
 
 * [Solution](https://devpost.com/software/nftbl-your-own-football-team)
 * [Video presentation](https://www.youtube.com/watch?v=UIglhf8lvA4)
+
+![slide](/Hedera22%20-%2031%20May%202022/slide.png)
