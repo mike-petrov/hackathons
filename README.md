@@ -43,5 +43,3 @@
 * [```Tron22 - 17 August 2022```](Tron22%20-%2017%20August%202022) [`video`](https://youtu.be/1KnjRwf0Jbk) / 3rd Runner Up (GameFi) / 5 000 $
 * [```Codegeist 2022 - 21 November 2022```](Codegeist%202022%20-%2021%20November%202022) [`video`](https://www.youtube.com/watch?v=jHaB2pvNBtk)
 * Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
-
-https://devpost.com/software/productivity-control-grid
