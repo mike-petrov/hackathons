@@ -44,4 +44,5 @@
 * [```Codegeist 2022 - 21 November 2022```](Codegeist%202022%20-%2021%20November%202022) [`video`](https://youtu.be/jHaB2pvNBtk)
 
 #### 2023
+* [```Nasa Space Apps 2023 - 7 October 2023```](Nasa%20Space%20Apps%202023%20-%207%20October%202023) / Semifinal
 * Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
