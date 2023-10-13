@@ -9,3 +9,7 @@ https://www.spaceappschallenge.org/2023/find-a-team/osiris-the-best/
 ### Solution:
 - 3D Demo: https://neuromodern.github.io/mars_mission_nasa_app_challenge_beta/
 - Game: https://mike-petrov.github.io/nasa-space-apps-2023/
+
+### Award:
+
+![slide](/Nasa%20Space%20Apps%202023%20-%207%20October%202023/diploma.jpeg)
