@@ -45,4 +45,6 @@
 
 #### 2023
 * [```Nasa Space Apps 2023 - 7 October 2023```](Nasa%20Space%20Apps%202023%20-%207%20October%202023) / Semifinal
+
+#### 2024
 * Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
