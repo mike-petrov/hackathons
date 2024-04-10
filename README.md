@@ -47,4 +47,5 @@
 * [```Nasa Space Apps 2023 - 7 October 2023```](Nasa%20Space%20Apps%202023%20-%207%20October%202023) / Semifinal
 
 #### 2024
+* [```Moscow Travel Hack 2024 - 6 April 2024```](Moscow%20Travel%20Hack%202024%20-%206%20April%202024) / Online winners
 * Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
