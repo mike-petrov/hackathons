@@ -48,4 +48,5 @@
 
 #### 2024
 * [```Moscow Travel Hack 2024 - 6 April 2024```](Moscow%20Travel%20Hack%202024%20-%206%20April%202024) / Online winners
+* [```Open League Summer: SPb Bootcamp - 2 June 2024```](Open%20League%20Summer:%20SPb%20Bootcamp%20-%202%20June%202024) / 4th place / 500 $
 * Coming soon, keep waiting: [mikepetrov.ru](https://mikepetrov.ru/) 🔥
